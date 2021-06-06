@@ -1,21 +1,73 @@
 {
     "articles": [{
             "id": 1,
-            "title": "Isso vai ser um artigo um dia",
-            "image": "https://www.google.com/google.jpg",
-            "text": "Esse é o texto"
+            "title": "Formas de aliviar a dor de cabeça",
+            "image": "https://www.freepik.com/free-photo/woman-with-closed-eyes-having-headache-against-gray-background_3004006.htm#page=1&query=dor%20de%20cabe%C3%A7a&position=2",
+            "text": "1. Colocar compressas frias ou morna. Dependendo da causa da dor de cabeça, o uso de compressas frias ou quentes podem ser indicados para aliviar a dor.A compressa deve ser aplicada no local da cabeça em que se sente a dor, na nuca ou na testa, por exemplo, por cerca de 10 a 20 minutos.",
+            "reference": "https://www.tuasaude.com/5-passos-para-aliviar-a-dor-de-cabeca-sem-remedios/"
         },
         {
             "id": 2,
-            "title": "Isso vai ser um artigo um dia",
-            "image": "https://www.google.com/google.jpg",
-            "text": "Esse é o texto"
+            "title": "Como aliviar a cólica menstrual?",
+            "image": "https://www.freepik.com/free-photo/this-pain-is-so-exhaustive_12468441.htm#page=1&query=menstruation&position=13",
+            "text": "Dica 1) Compressa de água morna relaxa a musculatura e reduz a cólica menstrual. Dica 2) Atividade física libera substâncias que ajudam a aliviar a cólica menstrual. Dica 3) Evite alimentos ricos em gordura ou bebidas com cafeína, pois eles estimulam o processo inflamatório",
+            "reference": "https://www.tuasaude.com/6-dicas-para-diminuir-as-colicas-menstruais/"
         },
         {
             "id": 3,
-            "title": "Isso vai ser um artigo um dia",
-            "image": "https://www.google.com/google.jpg",
-            "text": "Esse é o texto"
+            "title": "Como usar o absorvente externo?",
+            "image": "https://www.freepik.com/free-photo/gloomy-african-american-woman-cares-about-personal-hygiene-holds-sanitary-pad_12351667.htm#page=1&query=menstruation&position=4",
+            "text": "PASSO 1. ESCOLHA O ABSORVENTE CORRETO. PASSO 2. ABRA E RETIRE O PAPEL ADESIVO. PASSO 3. COLOQUE-O EM SUA ROUPA INTERIOR. PASSO 4. VERIFIQUE O SEU ABSORVENTE. ETAPA 5. TROQUE SEU ABSORVENTE SEMPRE QUE PRECISE.",
+            "reference": "https://www.intimus.com.br/pt-br/conteudo/produtos/passo-a-passo-de-como-usar-absorventes"
+        },
+        {
+            "id": 4,
+            "title": "Como usar o absorvente externo?",
+            "image": "https://www.freepik.com/free-photo/gloomy-african-american-woman-cares-about-personal-hygiene-holds-sanitary-pad_12351667.htm#page=1&query=menstruation&position=4",
+            "text": "PASSO 1. ESCOLHA O ABSORVENTE CORRETO. PASSO 2. ABRA E RETIRE O PAPEL ADESIVO. PASSO 3. COLOQUE-O EM SUA ROUPA INTERIOR. PASSO 4. VERIFIQUE O SEU ABSORVENTE. ETAPA 5. TROQUE SEU ABSORVENTE SEMPRE QUE PRECISE.",
+            "reference": "https://www.intimus.com.br/pt-br/conteudo/produtos/passo-a-passo-de-como-usar-absorventes"
+        },
+        {
+            "id": 5,
+            "title": "Como usar o absorvente externo?",
+            "image": "https://www.freepik.com/free-photo/gloomy-african-american-woman-cares-about-personal-hygiene-holds-sanitary-pad_12351667.htm#page=1&query=menstruation&position=4",
+            "text": "PASSO 1. ESCOLHA O ABSORVENTE CORRETO. PASSO 2. ABRA E RETIRE O PAPEL ADESIVO. PASSO 3. COLOQUE-O EM SUA ROUPA INTERIOR. PASSO 4. VERIFIQUE O SEU ABSORVENTE. ETAPA 5. TROQUE SEU ABSORVENTE SEMPRE QUE PRECISE.",
+            "reference": "https://www.intimus.com.br/pt-br/conteudo/produtos/passo-a-passo-de-como-usar-absorventes"
+        },
+        {
+            "id": 6,
+            "title": "Como usar o absorvente externo?",
+            "image": "https://www.freepik.com/free-photo/gloomy-african-american-woman-cares-about-personal-hygiene-holds-sanitary-pad_12351667.htm#page=1&query=menstruation&position=4",
+            "text": "PASSO 1. ESCOLHA O ABSORVENTE CORRETO. PASSO 2. ABRA E RETIRE O PAPEL ADESIVO. PASSO 3. COLOQUE-O EM SUA ROUPA INTERIOR. PASSO 4. VERIFIQUE O SEU ABSORVENTE. ETAPA 5. TROQUE SEU ABSORVENTE SEMPRE QUE PRECISE.",
+            "reference": "https://www.intimus.com.br/pt-br/conteudo/produtos/passo-a-passo-de-como-usar-absorventes"
+        },
+        {
+            "id": 7,
+            "title": "Como usar o absorvente externo?",
+            "image": "https://www.freepik.com/free-photo/gloomy-african-american-woman-cares-about-personal-hygiene-holds-sanitary-pad_12351667.htm#page=1&query=menstruation&position=4",
+            "text": "PASSO 1. ESCOLHA O ABSORVENTE CORRETO. PASSO 2. ABRA E RETIRE O PAPEL ADESIVO. PASSO 3. COLOQUE-O EM SUA ROUPA INTERIOR. PASSO 4. VERIFIQUE O SEU ABSORVENTE. ETAPA 5. TROQUE SEU ABSORVENTE SEMPRE QUE PRECISE.",
+            "reference": "https://www.intimus.com.br/pt-br/conteudo/produtos/passo-a-passo-de-como-usar-absorventes"
+        },
+        {
+            "id": 8,
+            "title": "Como usar o absorvente externo?",
+            "image": "https://www.freepik.com/free-photo/gloomy-african-american-woman-cares-about-personal-hygiene-holds-sanitary-pad_12351667.htm#page=1&query=menstruation&position=4",
+            "text": "PASSO 1. ESCOLHA O ABSORVENTE CORRETO. PASSO 2. ABRA E RETIRE O PAPEL ADESIVO. PASSO 3. COLOQUE-O EM SUA ROUPA INTERIOR. PASSO 4. VERIFIQUE O SEU ABSORVENTE. ETAPA 5. TROQUE SEU ABSORVENTE SEMPRE QUE PRECISE.",
+            "reference": "https://www.intimus.com.br/pt-br/conteudo/produtos/passo-a-passo-de-como-usar-absorventes"
+        },
+        {
+            "id": 9,
+            "title": "Como usar o absorvente externo?",
+            "image": "https://www.freepik.com/free-photo/gloomy-african-american-woman-cares-about-personal-hygiene-holds-sanitary-pad_12351667.htm#page=1&query=menstruation&position=4",
+            "text": "PASSO 1. ESCOLHA O ABSORVENTE CORRETO. PASSO 2. ABRA E RETIRE O PAPEL ADESIVO. PASSO 3. COLOQUE-O EM SUA ROUPA INTERIOR. PASSO 4. VERIFIQUE O SEU ABSORVENTE. ETAPA 5. TROQUE SEU ABSORVENTE SEMPRE QUE PRECISE.",
+            "reference": "https://www.intimus.com.br/pt-br/conteudo/produtos/passo-a-passo-de-como-usar-absorventes"
+        },
+        {
+            "id": 10,
+            "title": "Como usar o absorvente externo?",
+            "image": "https://www.freepik.com/free-photo/gloomy-african-american-woman-cares-about-personal-hygiene-holds-sanitary-pad_12351667.htm#page=1&query=menstruation&position=4",
+            "text": "PASSO 1. ESCOLHA O ABSORVENTE CORRETO. PASSO 2. ABRA E RETIRE O PAPEL ADESIVO. PASSO 3. COLOQUE-O EM SUA ROUPA INTERIOR. PASSO 4. VERIFIQUE O SEU ABSORVENTE. ETAPA 5. TROQUE SEU ABSORVENTE SEMPRE QUE PRECISE.",
+            "reference": "https://www.intimus.com.br/pt-br/conteudo/produtos/passo-a-passo-de-como-usar-absorventes"
         }
     ]
 }

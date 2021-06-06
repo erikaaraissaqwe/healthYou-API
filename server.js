@@ -8,6 +8,8 @@ const middlewares = jsonServer.defaults();
 
 const port = process.env.PORT || 8080;
 
+// https://healthyou-api.herokuapp.com/ - deploy 
+
 server.use(middlewares);
 server.use(router);
 server.listen(port, () => {
