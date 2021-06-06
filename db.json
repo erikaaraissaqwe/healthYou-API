@@ -1,0 +1,21 @@
+{
+    "articles": [{
+            "id": 1,
+            "title": "Isso vai ser um artigo um dia",
+            "image": "https://www.google.com/google.jpg",
+            "text": "Esse é o texto"
+        },
+        {
+            "id": 2,
+            "title": "Isso vai ser um artigo um dia",
+            "image": "https://www.google.com/google.jpg",
+            "text": "Esse é o texto"
+        },
+        {
+            "id": 3,
+            "title": "Isso vai ser um artigo um dia",
+            "image": "https://www.google.com/google.jpg",
+            "text": "Esse é o texto"
+        }
+    ]
+}
